@@ -1,8 +1,54 @@
-@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 
+
+
+
+
+
+
+
+
+
+
+
+#header1-1 H1 {
+  font-size: 72px;
+  font-family: 'Oxygen', sans-serif;
+}
+#header1-1 .btn {
+  font-family: 'Oxygen', sans-serif;
+}
+#msg-box4-c .lead P {
+  font-family: 'Oxygen', sans-serif;
+}
+#msg-box4-c .mbr-section-title {
+  font-family: 'Oxygen', sans-serif;
+  color: #000000;
+}
+#content5-d .mbr-section-title {
+  font-family: 'Oxygen', sans-serif;
+}
+#content5-d P {
+  font-family: 'Oxygen', sans-serif;
+}
+#msg-box4-g .mbr-section-title {
+  font-family: 'Oxygen', sans-serif;
+}
+#msg-box4-g .lead P {
+  font-family: 'Oxygen', sans-serif;
+}
 #social-buttons1-3 .mbr-section-title {
-  font-family: 'Playfair Display', sans-serif;
+  font-family: 'Oxygen', sans-serif;
 }
 #ext_menu-6 .navbar-toggler {
-  color: #000;
+  color: #ff0033;
+}
+#ext_menu-6 .navbar-brand {
+  font-family: 'Oxygen', sans-serif;
+}
+#ext_menu-6 .navbar-nav .btn {
+  font-family: 'Oxygen', sans-serif;
+}
+#ext_menu-6 .nav-link {
+  font-family: 'Oxygen', sans-serif;
 }
