@@ -1,0 +1,258 @@
+{
+  "settings": {
+    "name": "TheUnknownArtists",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {}
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.10.8",
+    "siteFonts": [],
+    "favicon": "@PROJECT_PATH@/assets/images/tus-logo-s-128x127.png",
+    "noImageResize": "",
+    "siteUrl": "undefined",
+    "google-analytics": "",
+    "uniqCompNum": 15,
+    "versionPublish": "4.10.8",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/picture-frame-763299-1-1920x1483.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "The Unknown Artists",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"index.html#content5-d\" data-toolbar=\"-mbrBtnMove\">Exhibition</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html#content1-e\" data-toolbar=\"-mbrBtnMove\">Learn More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/wall-175683-2000x1500.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "Exhibition",
+          "caption": "<p><span style=\"font-size: 1.25rem;\">Open:</span><br></p><p>Until 18 December 2019</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-d"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "21",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/wall-175683-2000x1500.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/kopie-van-tua-2-794x1123.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Grand opening 16th of November 2019",
+          "text": "<p>Korte Vijverberg 2</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thema"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ore</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-c"
+        },
+        {
+          "text": "<p>Group exhibition organized by (starting) artists. Independent and pure, no gallery or intermediary. Art from (still) unknown artists. The aim is to be able to give art space, regardless of the background.</p><p>Group exhibition of artists who work outside established standards but who work professionally.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-e"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": true,
+            "facebook": true,
+            "twitter": true,
+            "google": false
+          },
+          "text": "Share This Page!",
+          "alias": "purity/components",
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-3",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2451.9517514151903!2d4.3127737157986745!3d52.080608176450866!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c5b73caf35d881%3A0x7d4ffd65770db554!2sKorte%20Vijverberg%202%2C%202513%20AB%20Den%20Haag!5e0!3m2!1snl!2snl!4v1567942606104!5m2!1snl!2snl\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0;\" allowfullscreen=\"\"></iframe>",
+              "placeId": "iframe",
+              "state": "ok"
+            }
+          },
+          "text1": "<strong>Address</strong><br>\nKorte Vijverberg 2<br>\nThe Hague<br><br>\n<strong>Contacts</strong><br>\nEmail: a.defeij@aical.nl<br>\nPhone: +31(0) 62 52 03 187<br>",
+          "text2": "<strong>Links</strong><ul><li>Ajda de Feij</li><li><br></li></ul>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-5"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#fff",
+            "hamburgerColor": "#000"
+          },
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"index.html#msg-box4-c\">News</a></li>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thema"
+          ],
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#content1-e\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#contacts2-5\">Contact</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/tus-logo-s-129x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">The Unknown Artists</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-6",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
