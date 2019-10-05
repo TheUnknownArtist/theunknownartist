@@ -13,7 +13,10 @@
 #msg-box4-c .mbr-section-title {
   font-family: 'Oxygen', sans-serif;
   color: #000000;
-  font-size: 32px;
+  font-size: 20px;
+}
+#msg-box4-c .mbr-section-title P {
+  font-size: 20px;
 }
 #msg-box4-g .mbr-section-title {
   font-family: 'Oxygen', sans-serif;

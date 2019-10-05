@@ -77,8 +77,8 @@
               "size": 0
             }
           },
-          "title": "Exhibition&nbsp;<br>16. November – 18. December 2019",
-          "text": "<p>Korte Vijverberg 2 - The Hague</p>",
+          "title": "<p><b>Opening Exhibition</b>&nbsp;</p><p>16. November from 19:00<br>&nbsp;until&nbsp;<br>18. December 2019</p><p>OPENING TIMES</p><p><br></p>",
+          "text": "<p>Korte Vijverberg 2<br>–<br>The Hague</p>",
           "alias": "purity/components",
           "_tags": [
             "Thema"
@@ -96,7 +96,10 @@
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "color": "#000000",
-              "font-size": "32px"
+              "font-size": "20px"
+            },
+            ".mbr-section-title P": {
+              "font-size": "20px"
             }
           }
         },
@@ -108,9 +111,9 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "17",
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "imageSize": "9",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/wall-175683-2000x1500.jpg",
             "parallax": true,
