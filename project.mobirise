@@ -33,47 +33,6 @@
       },
       "components": [
         {
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": true,
-            "showArrow": true,
-            "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/banner-1071799-2000x628.jpeg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#fff8e0",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": 0.5
-          },
-          "title": "The Unknown Artists",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"index.html#msg-box4-c\" data-toolbar=\"-mbrBtnMove\">Exhibition</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html#content5-d\" data-toolbar=\"-mbrBtnMove\">Learn More</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Thema"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-1",
-          "_styles": {
-            "H1": {
-              "font-size": "72px",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            ".btn": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            }
-          }
-        },
-        {
           "_inherit": "msg-box5",
           "_params": {
             "showTitle": true,
@@ -81,9 +40,9 @@
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "21",
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "imageSize": "17",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1618x1080.jpg",
             "parallax": false,
@@ -118,7 +77,7 @@
               "size": 0
             }
           },
-          "title": "Grand opening <br>16 November 2019",
+          "title": "Exhibition&nbsp;<br>16. November – 18. December 2019",
           "text": "<p>Korte Vijverberg 2 - The Hague</p>",
           "alias": "purity/components",
           "_tags": [
@@ -136,45 +95,8 @@
             ".mbr-section-title": {
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "color": "#000000"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1618x1080.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.7
-          },
-          "title": "Exhibition info",
-          "caption": "<p><span style=\"font-size: 1.25rem;\">Open </span></p><p><span style=\"font-size: 1.25rem;\">Starting 16 november -</span><br></p><p>Until 18 December 2019</p>",
-          "alias": "purity/components",
-          "_tags": [
-            "Thema"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-d",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            "P": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+              "color": "#000000",
+              "font-size": "32px"
             }
           }
         },
@@ -185,7 +107,7 @@
             "showMeta": false,
             "showText": true,
             "showButtons": false,
-            "inverse": true,
+            "inverse": false,
             "imageSize": "17",
             "paddingTop": 0,
             "paddingBottom": 0,
@@ -236,11 +158,13 @@
           "_styles": {
             ".mbr-section-title": {
               "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "text-align": "left"
             },
             ".lead P": {
               "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "text-align": "left"
             }
           }
         },

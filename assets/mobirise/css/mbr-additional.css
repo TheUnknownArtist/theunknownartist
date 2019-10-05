@@ -7,35 +7,21 @@
 
 
 
-
-
-
-
-#header1-1 H1 {
-  font-size: 72px;
-  font-family: 'Oxygen', sans-serif;
-}
-#header1-1 .btn {
-  font-family: 'Oxygen', sans-serif;
-}
 #msg-box4-c .lead P {
   font-family: 'Oxygen', sans-serif;
 }
 #msg-box4-c .mbr-section-title {
   font-family: 'Oxygen', sans-serif;
   color: #000000;
-}
-#content5-d .mbr-section-title {
-  font-family: 'Oxygen', sans-serif;
-}
-#content5-d P {
-  font-family: 'Oxygen', sans-serif;
+  font-size: 32px;
 }
 #msg-box4-g .mbr-section-title {
   font-family: 'Oxygen', sans-serif;
+  text-align: left;
 }
 #msg-box4-g .lead P {
   font-family: 'Oxygen', sans-serif;
+  text-align: left;
 }
 #social-buttons1-3 .mbr-section-title {
   font-family: 'Oxygen', sans-serif;
