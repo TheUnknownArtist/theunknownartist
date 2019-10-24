@@ -17,8 +17,8 @@
     "noImageResize": "",
     "siteUrl": "undefined",
     "google-analytics": "",
-    "uniqCompNum": 21,
-    "versionPublish": "4.10.8",
+    "uniqCompNum": 22,
+    "versionPublish": "4.11.3",
     "screenshot": "screenshot.png"
   },
   "pages": {
@@ -77,7 +77,7 @@
               "size": 0
             }
           },
-          "title": "<p><b>Exhibition</b>&nbsp;<b>Opening</b></p><p>16. November from 19:00<br>&nbsp;– <br>18. December 2019</p><p>OPENING TIMES</p><p><br></p>",
+          "title": "<p><b><a href=\"https://www.facebook.com/events/427257951476640/\" target=\"_blank\" class=\"text-black\">Exhibition</a></b><a href=\"https://www.facebook.com/events/427257951476640/\" target=\"_blank\">&nbsp;</a><b><a href=\"https://www.facebook.com/events/427257951476640/\" target=\"_blank\" class=\"text-black\">Opening</a></b></p><p>16. November from 19:00<br>&nbsp;– <br>18. December 2019</p><p>OPENING TIMES</p><p><br></p>",
           "text": "<p>Korte Vijverberg 2<br>–<br>The Hague</p>",
           "alias": "purity/components",
           "_tags": [
