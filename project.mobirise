@@ -77,7 +77,7 @@
               "size": 0
             }
           },
-          "title": "<p><b><a href=\"https://www.facebook.com/events/427257951476640/\" target=\"_blank\" class=\"text-black\">Exhibition</a></b><a href=\"https://www.facebook.com/events/427257951476640/\" target=\"_blank\">&nbsp;</a><b><a href=\"https://www.facebook.com/events/427257951476640/\" target=\"_blank\" class=\"text-black\">Opening</a></b></p><p>16. November from 19:00<br>&nbsp;– <br>18. December 2019</p><p>OPENING TIMES</p><p><br></p>",
+          "title": "<p><b><a href=\"https://www.facebook.com/events/427257951476640/\" target=\"_blank\" class=\"text-black\">Exhibition</a></b><a href=\"https://www.facebook.com/events/427257951476640/\" target=\"_blank\">&nbsp;</a><b><a href=\"https://www.facebook.com/events/427257951476640/\" target=\"_blank\" class=\"text-black\">Opening</a></b></p><p><a href=\"https://www.facebook.com/events/427257951476640/\" target=\"_blank\" class=\"text-black\">16. November from 19:00</a><br>&nbsp;– <br>18. December 2019</p><p>OPENING TIMES</p><p><br></p>",
           "text": "<p>Korte Vijverberg 2<br>–<br>The Hague</p>",
           "alias": "purity/components",
           "_tags": [
@@ -274,7 +274,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>\nANNA@KV2<br>Korte Vijverberg 2<br>2513 AB The Hague<br><br>\n<strong>Contacts</strong><br>\nEmail: a.defeij@aical.nl<br>\nPhone: +31(0) 62 52 03 187<br>",
-          "text2": "<strong>Links</strong><ul><li><a href=\"http://ajdadefeij.nl\" target=\"_blank\">Ajda de Feij</a></li><li><a href=\"http://fenneke-weltevrede.kunstinzicht.nl/\" target=\"_blank\">Fenneke Weltevrede</a></li><li><a href=\"https://www.instagram.com/peaceminusone19/\" target=\"_blank\">Megan Lee</a></li></ul>",
+          "text2": "<strong>Links</strong><ul><li><a href=\"http://ajdadefeij.nl\" target=\"_blank\">Ajda de Feij</a></li><li><a href=\"http://fenneke-weltevrede.kunstinzicht.nl/\" target=\"_blank\">Fenneke Weltevrede</a></li><li><a href=\"https://www.instagram.com/peaceminusone19/\" target=\"_blank\">Megan Lee</a></li></ul><p><a href=\"https://www.facebook.com/events/427257951476640/\" target=\"_blank\" class=\"text-primary\">Facebook RSVP</a></p>",
           "alias": "purity/components",
           "_tags": [
             "Thema"
