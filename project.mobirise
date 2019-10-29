@@ -19,17 +19,22 @@
     "google-analytics": "",
     "uniqCompNum": 22,
     "versionPublish": "4.11.3",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "": "on",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Home-The-Unknown-Artists",
+        "meta_descr": "Group exhibition, pure, no gallery or intermediary. With three independent, abstract contemporary artists. \n\nThe exhibition is about the individual artwork, it's own standalone story regardless of it's creator.\n\nDoes the artwork touch you... if the artist is unknown?",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/collage-4-1400x1400.jpg"
       },
       "components": [
         {
