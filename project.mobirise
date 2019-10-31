@@ -101,7 +101,8 @@
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "color": "#000000",
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "center"
             },
             ".mbr-section-title P": {
               "font-size": "20px",
