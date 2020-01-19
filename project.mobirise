@@ -65,7 +65,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/collage-4-1400x1400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/naamloos-1400x1400.jpeg",
               "link": "",
               "alt": "",
               "title": ""
@@ -334,13 +334,18 @@
             }
           },
           "text1": "<strong>Address</strong><br>\nANNA@KV2<br>Korte Vijverberg 2<br>2513 AB The Hague<br><br>\n<strong>Contacts</strong><br>\nEmail: a.defeij@aical.nl<br>\nPhone: +31(0) 62 52 03 187<br>",
-          "text2": "<strong>Links</strong><ul><li><a href=\"http://ajdadefeij.nl\" target=\"_blank\">Ajda de Feij</a></li><li><a href=\"http://fenneke-weltevrede.kunstinzicht.nl/\" target=\"_blank\">Fenneke Weltevrede</a></li><li><a href=\"https://www.instagram.com/peaceminusone19/\" target=\"_blank\">Megan Lee</a></li></ul><p><a href=\"https://www.facebook.com/events/427257951476640/\" target=\"_blank\" class=\"text-primary\">Facebook RSVP</a></p><p><a href=\"https://www.annavastgoedencultuur.nl/\" target=\"_blank\" class=\"text-primary\" style=\"background-color: rgb(55, 56, 62); font-size: 1rem;\">ANNA Vastgoed &amp; Cultuur</a></p><p><br></p>",
+          "text2": "<strong>Links</strong><ul><li><a href=\"http://ajdadefeij.nl\" target=\"_blank\">Ajda de Feij</a></li><li><a href=\"http://fenneke-weltevrede.kunstinzicht.nl/\" target=\"_blank\">Fenneke Weltevrede</a></li><li><a href=\"https://www.kunstinzicht.nl/portfolio/werk/gertjan-hammes/index.html\" target=\"_blank\">Gert Jan Hammes</a></li></ul><p><a href=\"https://www.facebook.com/events/427257951476640/\" target=\"_blank\" class=\"text-primary\">Facebook RSVP</a></p><p><a href=\"https://www.annavastgoedencultuur.nl/\" target=\"_blank\" class=\"text-primary\" style=\"background-color: rgb(55, 56, 62); font-size: 1rem;\">ANNA Vastgoed &amp; Cultuur</a></p><p><br></p>",
           "alias": "purity/components",
           "_tags": [
             "Thema"
           ],
           "_name": "contacts2",
-          "_anchor": "contacts2-5"
+          "_anchor": "contacts2-5",
+          "_styles": {
+            "DIV": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_inherit": "menu",
