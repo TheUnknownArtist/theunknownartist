@@ -17,7 +17,7 @@
     "noImageResize": "",
     "siteUrl": "undefined",
     "google-analytics": "",
-    "uniqCompNum": 25,
+    "uniqCompNum": 26,
     "versionPublish": "4.11.6",
     "screenshot": "screenshot.png",
     "": "on",
@@ -45,12 +45,12 @@
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "17",
+            "imageSize": "13",
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1618x1080.jpg",
-            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/canva-black-smoke-2000x1333.jpg",
+            "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
             "bgVideoRadio": false,
@@ -58,14 +58,14 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#fff",
-            "overlayOpacity": "0.6"
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.3"
           },
           "media": {
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/naamloos-1400x1400.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/1-kopie-1183x1044.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -82,8 +82,8 @@
               "size": 0
             }
           },
-          "title": "<p><b><a href=\"https://www.facebook.com/events/427257951476640/\" target=\"_blank\" class=\"text-black\">Exhibition</a></b><a href=\"https://www.facebook.com/events/427257951476640/\" target=\"_blank\">&nbsp;</a><b>Ended</b><br></p>",
-          "text": "<p>Korte Vijverberg 2,&nbsp;<span style=\"font-size: 1.25rem;\">The Hague</span></p>",
+          "title": "<p><b><a href=\"https://www.facebook.com/events/427257951476640/\" target=\"_blank\" class=\"text-white\">Exhibition</a></b><a href=\"https://www.facebook.com/events/427257951476640/\" target=\"_blank\">&nbsp;</a><b>Opening</b></p><p><b>23. May 2020<br></b><br></p>",
+          "text": "<p>Korte Vijverberg 2 –&nbsp;<span style=\"font-size: 1.25rem;\">The Hague</span></p>",
           "alias": "purity/components",
           "_tags": [
             "Thema"
@@ -95,18 +95,22 @@
           "_styles": {
             ".lead P": {
               "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "21px"
             },
             ".mbr-section-title": {
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "color": "#000000",
+              "color": "#ffffff",
               "font-size": "20px",
               "text-align": "center"
             },
             ".mbr-section-title P": {
-              "font-size": "20px",
+              "font-size": "23px",
               "text-align": "center"
+            },
+            ".lead": {
+              "color": "#ffffff"
             }
           }
         },
@@ -179,73 +183,20 @@
           }
         },
         {
-          "_inherit": "msg-box5",
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showMeta": false,
             "showText": false,
             "showButtons": false,
-            "inverse": true,
-            "imageSize": "51",
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "inverse": false,
+            "imageSize": "41",
+            "paddingTop": 0,
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/photo-4.jpg"
-            },
-            "video": {
-              "src": "https://youtu.be/WItm-YoIcGQ",
-              "aspectratio": "16:9",
-              "autoplay": "on",
-              "loop": "on",
-              "active": true
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Drag &amp; Drop Website Builder",
-          "text": "<p>Mobirise helps you cut down development time by providing you with a flexible website editor.</p>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-o"
-        },
-        {
-          "_params": {
-            "showTitle": false,
-            "showMeta": false,
-            "showText": false,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": "51",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#000000",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -261,27 +212,44 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/6nFSvP0hvDQ",
+              "src": "https://youtu.be/VUoNm6oFjqM",
               "aspectratio": "16:9",
-              "autoplay": "on",
+              "autoplay": false,
               "loop": "on"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "linkInNewWindow": false,
+              "name": "play",
+              "family": "MobiriseIcons",
               "link": "",
               "size": 0
             }
           },
-          "title": "Video Embed",
+          "title": "The Unknown Artists 2020",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "text": "<p>23. May 2020 from 19:00</p><p><span style=\"font-size: 1.25rem;\">Until 21. June 2020</span><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>",
           "alias": "purity/components",
           "_tags": [
-            "Thema"
+            "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-k"
+          "_anchor": "msg-box5-p",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "22px",
+              "text-align": "right",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#ffffff"
+            },
+            ".lead P": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "text-align": "right"
+            }
+          }
         },
         {
           "_params": {
@@ -291,7 +259,7 @@
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#000000",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5,
@@ -311,7 +279,8 @@
             ".mbr-section-title": {
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "20px"
+              "font-size": "20px",
+              "color": "#ffffff"
             }
           }
         },
@@ -334,7 +303,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>\nANNA@KV2<br>Korte Vijverberg 2<br>2513 AB The Hague<br><br>\n<strong>Contacts</strong><br>\nEmail: a.defeij@aical.nl<br>\nPhone: +31(0) 62 52 03 187<br>",
-          "text2": "<strong>Links</strong><ul><li><a href=\"http://ajdadefeij.nl\" target=\"_blank\">Ajda de Feij</a></li><li><a href=\"http://fenneke-weltevrede.kunstinzicht.nl/\" target=\"_blank\">Fenneke Weltevrede</a></li><li><a href=\"https://www.kunstinzicht.nl/portfolio/werk/gertjan-hammes/index.html\" target=\"_blank\">Gert Jan Hammes</a></li></ul><p><a href=\"https://www.facebook.com/events/427257951476640/\" target=\"_blank\" class=\"text-primary\">Facebook RSVP</a></p><p><a href=\"https://www.annavastgoedencultuur.nl/\" target=\"_blank\" class=\"text-primary\" style=\"background-color: rgb(55, 56, 62); font-size: 1rem;\">ANNA Vastgoed &amp; Cultuur</a></p><p><br></p>",
+          "text2": "<strong>Links</strong><ul><li><a href=\"http://ajdadefeij.nl\" target=\"_blank\">Ajda de Feij</a></li><li><a href=\"http://fenneke-weltevrede.kunstinzicht.nl/\" target=\"_blank\">Fenneke Weltevrede</a></li><li><a href=\"https://www.kunstinzicht.nl/portfolio/werk/gertjan-hammes/index.html\" target=\"_blank\">Gert Jan Hammes</a></li></ul><p><a href=\"https://www.facebook.com/events/652756725486509/\" target=\"_blank\" class=\"text-primary\">Facebook RSVP</a></p><p><a href=\"https://www.annavastgoedencultuur.nl/\" target=\"_blank\" class=\"text-primary\" style=\"background-color: rgb(55, 56, 62); font-size: 1rem;\">ANNA Vastgoed &amp; Cultuur</a></p><p><br></p>",
           "alias": "purity/components",
           "_tags": [
             "Thema"

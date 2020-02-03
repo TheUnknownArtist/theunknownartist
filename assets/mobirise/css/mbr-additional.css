@@ -7,18 +7,24 @@
 
 
 
+
+
 #msg-box4-c .lead P {
   font-family: 'Oxygen', sans-serif;
+  font-size: 21px;
 }
 #msg-box4-c .mbr-section-title {
   font-family: 'Oxygen', sans-serif;
-  color: #000000;
+  color: #ffffff;
   font-size: 20px;
   text-align: center;
 }
 #msg-box4-c .mbr-section-title P {
-  font-size: 20px;
+  font-size: 23px;
   text-align: center;
+}
+#msg-box4-c .lead {
+  color: #ffffff;
 }
 #msg-box4-g .mbr-section-title {
   font-family: 'Oxygen', sans-serif;
@@ -28,9 +34,20 @@
   font-family: 'Oxygen', sans-serif;
   text-align: left;
 }
+#msg-box5-p .mbr-section-title {
+  font-size: 22px;
+  text-align: right;
+  font-family: 'Oxygen', sans-serif;
+  color: #ffffff;
+}
+#msg-box5-p .lead P {
+  font-family: 'Oxygen', sans-serif;
+  text-align: right;
+}
 #social-buttons1-3 .mbr-section-title {
   font-family: 'Oxygen', sans-serif;
   font-size: 20px;
+  color: #ffffff;
 }
 #contacts2-5 DIV {
   color: #ffffff;
