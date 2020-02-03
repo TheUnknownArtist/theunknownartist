@@ -50,7 +50,7 @@
             "paddingBottom": "3",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/canva-black-smoke-2000x1333.jpg",
-            "parallax": true,
+            "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#fff",
             "bgVideoRadio": false,
