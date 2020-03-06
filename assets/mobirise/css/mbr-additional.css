@@ -26,6 +26,9 @@
 #msg-box4-c .lead {
   color: #ffffff;
 }
+#msg-box4-c .mbr-section-title DIV {
+  text-align: center;
+}
 #msg-box4-g .mbr-section-title {
   font-family: 'Oxygen', sans-serif;
   text-align: left;

@@ -82,8 +82,8 @@
               "size": 0
             }
           },
-          "title": "<p><b><a href=\"https://www.facebook.com/events/652756725486509/\" target=\"_blank\" class=\"text-white\">Exhibition</a></b><a href=\"https://www.facebook.com/events/427257951476640/\" target=\"_blank\">&nbsp;</a><b>Opening</b></p><p><b>23. May 2020<br></b><br></p>",
-          "text": "<p>Korte Vijverberg 2 –&nbsp;<span style=\"font-size: 1.25rem;\">The Hague</span></p>",
+          "title": "<p></p><p><b><a href=\"https://www.facebook.com/events/652756725486509/\" target=\"_blank\" class=\"text-white\">Exhibition</a></b><a href=\"https://www.facebook.com/events/427257951476640/\" target=\"_blank\">&nbsp;</a><b>Opening</b></p><br><p><b>23. May 2020 – 21 June 2020</b><br></p>Maandag\t&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gesloten<div>Dinsdag\t&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gesloten</div><div>Woensdag\t&nbsp;&nbsp;&nbsp;Gesloten</div><div>Donderdag &nbsp; &nbsp; &nbsp; &nbsp;13:00 - 19:00</div><div>Vrijdag &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;13:00 - 19:00</div><div>Zaterdag &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;13:00 - 19:00</div><div>Zondag &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;13:00 - 19:00</div><p></p>",
+          "text": "<p><b>Korte Vijverberg 2 –&nbsp;<span style=\"font-size: 1.25rem;\">The Hague</span></b></p>",
           "alias": "purity/components",
           "_tags": [
             "Thema"
@@ -111,6 +111,9 @@
             },
             ".lead": {
               "color": "#ffffff"
+            },
+            ".mbr-section-title DIV": {
+              "text-align": "center"
             }
           }
         },
