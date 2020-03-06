@@ -14,16 +14,19 @@
     "versionFirst": "4.10.8",
     "siteFonts": [],
     "favicon": "@PROJECT_PATH@/assets/images/tus-logo-s-128x127.png",
-    "noImageResize": "",
-    "siteUrl": "undefined",
+    "noImageResize": false,
+    "siteUrl": false,
     "google-analytics": "",
     "uniqCompNum": 26,
     "versionPublish": "4.11.6",
     "screenshot": "screenshot.png",
     "": "on",
-    "robotsSwitcher": false,
+    "robotsSwitcher": true,
     "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false
+    "sitemapSwitcherAuto": "on",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
