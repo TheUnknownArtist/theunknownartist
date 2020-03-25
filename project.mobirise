@@ -85,7 +85,7 @@
               "size": 0
             }
           },
-          "title": "<p></p><p><b><a href=\"https://www.facebook.com/events/652756725486509/\" target=\"_blank\" class=\"text-white\">Exhibition</a></b><a href=\"https://www.facebook.com/events/427257951476640/\" target=\"_blank\">&nbsp;</a><b>Opening</b></p><br><p><b>23. May 2020 – 21 June 2020</b><br></p>Maandag\t&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gesloten<div>Dinsdag\t&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gesloten</div><div>Woensdag\t&nbsp;&nbsp;&nbsp;Gesloten</div><div>Donderdag &nbsp; &nbsp; &nbsp; &nbsp;13:00 - 19:00</div><div>Vrijdag &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;13:00 - 19:00</div><div>Zaterdag &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;13:00 - 19:00</div><div>Zondag &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;13:00 - 19:00</div><p></p>",
+          "title": "<p></p><p><b><a href=\"https://www.facebook.com/events/652756725486509/\" target=\"_blank\" class=\"text-white\">Exhibition</a></b><a href=\"https://www.facebook.com/events/427257951476640/\" target=\"_blank\">&nbsp;</a><b>Opening</b></p><br><p></p>",
           "text": "<p><b>Korte Vijverberg 2 –&nbsp;<span style=\"font-size: 1.25rem;\">The Hague</span></b></p>",
           "alias": "purity/components",
           "_tags": [
@@ -232,7 +232,7 @@
               "size": 0
             }
           },
-          "title": "The Unknown Artists 2020<br><br>23. May &nbsp;– 21. June",
+          "title": "The Unknown Artists 2020<br><br>",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>23. May 2020 from 19:00</p><p><span style=\"font-size: 1.25rem;\">Until 21. June 2020</span><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>",
