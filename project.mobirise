@@ -14,11 +14,11 @@
     "versionFirst": "4.10.8",
     "siteFonts": [],
     "favicon": "@PROJECT_PATH@/assets/images/tus-logo-s-128x127.png",
-    "noImageResize": false,
+    "noImageResize": null,
     "siteUrl": false,
     "google-analytics": "",
     "uniqCompNum": 26,
-    "versionPublish": "4.11.6",
+    "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "": "on",
     "robotsSwitcher": true,
@@ -26,7 +26,8 @@
     "sitemapSwitcherAuto": "on",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "imageResize": true
   },
   "pages": {
     "index.html": {
@@ -86,12 +87,12 @@
             }
           },
           "title": "<p></p><p><b><a href=\"https://www.facebook.com/events/652756725486509/\" target=\"_blank\" class=\"text-white\">Exhibition</a></b><a href=\"https://www.facebook.com/events/427257951476640/\" target=\"_blank\">&nbsp;</a><b>Opening</b></p><br><p></p>",
-          "text": "<p><b>Korte Vijverberg 2 –&nbsp;<span style=\"font-size: 1.25rem;\">The Hague</span></b></p>",
+          "text": "<p><b><span style=\"font-size: 1.25rem;\">The Hague</span></b></p>",
           "alias": "purity/components",
           "_tags": [
             "Thema"
           ],
-          "meta": "<a href=\"https://www.annavastgoedencultuur.nl/\" target=\"_blank\">ANNA Vastgoed &amp; Cultuur</a>",
+          "meta": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ore</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-c",
@@ -309,7 +310,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>\nANNA@KV2<br>Korte Vijverberg 2<br>2513 AB The Hague<br><br>\n<strong>Contacts</strong><br>\nEmail: a.defeij@aical.nl<br>\nPhone: +31(0) 62 52 03 187<br>",
-          "text2": "<strong>Links</strong><ul><li><a href=\"http://ajdadefeij.nl\" target=\"_blank\">Ajda de Feij</a></li><li><a href=\"http://fenneke-weltevrede.kunstinzicht.nl/\" target=\"_blank\">Fenneke Weltevrede</a></li><li><a href=\"https://www.kunstinzicht.nl/portfolio/werk/gertjan-hammes/index.html\" target=\"_blank\">Gert Jan Hammes</a></li></ul><p><a href=\"https://www.facebook.com/events/652756725486509/\" target=\"_blank\" class=\"text-primary\">Facebook RSVP</a></p><p><a href=\"https://www.annavastgoedencultuur.nl/\" target=\"_blank\" class=\"text-primary\" style=\"background-color: rgb(55, 56, 62); font-size: 1rem;\">ANNA Vastgoed &amp; Cultuur</a></p><p><a href=\"https://denhaag.com/nl/agenda/the-unknown-artists-1\" target=\"_blank\" class=\"text-primary\">Den Haag.com</a></p><p><br></p>",
+          "text2": "<strong>Links</strong><ul><li><a href=\"http://ajdadefeij.nl\" target=\"_blank\">Ajda de Feij</a></li><li><a href=\"http://fenneke-weltevrede.kunstinzicht.nl/\" target=\"_blank\">Fenneke Weltevrede</a></li><li><a href=\"https://www.kunstinzicht.nl/portfolio/werk/gertjan-hammes/index.html\" target=\"_blank\">Gert Jan Hammes</a></li></ul><p><a href=\"https://www.facebook.com/events/652756725486509/\" target=\"_blank\" class=\"text-primary\">Facebook RSVP</a></p><p><a href=\"https://denhaag.com/nl/agenda/the-unknown-artists-1\" target=\"_blank\" class=\"text-primary\">Den Haag.com</a></p><p><br></p>",
           "alias": "purity/components",
           "_tags": [
             "Thema"
